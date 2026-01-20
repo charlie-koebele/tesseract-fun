@@ -172,3 +172,4 @@ if __name__ == "__main__":
         target_pdf="ballot_test.pdf",
         output_image="dead_pres_highlighted.png"
     )
+
